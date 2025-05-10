@@ -1,7 +1,5 @@
 # 🤖 AI Agent – PureBhaktiBase
 
-# 🤖 AI Agent – PureBhaktiBase
-
 This package is responsible for the **AI-driven core functionality** of PureBhaktiBase, which enables intelligent search, retrieval, and response generation based on Śrīla Gurudev’s teachings.
 
 ---
@@ -53,4 +51,3 @@ The `ai-agent` module powers:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
